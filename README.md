@@ -1,7 +1,5 @@
 # argon vue electron
 
-> An electron-vue project
-
 #### Get Started
 
 ``` bash
@@ -15,7 +13,7 @@ npm run dev
 
 ```
 
-Next search for `rgon.vue.electron` in the project and replace it with your project name
+Next search for `argon.vue.electron` in the project and replace it with your project name
 
 #### Build Setup
 
@@ -30,3 +28,25 @@ npm run dev
 npm run build
 
 ```
+<div align="center">
+<br>
+<img width="500" src="/imgs/argon1.PNG" alt="Argon-vue-electron">
+<br>
+<br>
+<br>
+<img width="500" src="/imgs/argon2.PNG" alt="Argon-vue-electron">
+<br>
+<br>
+<br>
+<img width="500" src="/imgs/argon3.PNG" alt="Argon-vue-electron">
+<br>
+<br>
+<br>
+<img width="500" src="/imgs/argon4.PNG" alt="Argon-vue-electron">
+<br>
+<br>
+<br>
+<img width="500" src="/imgs/argon5.PNG" alt="Argon-vue-electron">
+<br>
+<br>
+</div>
