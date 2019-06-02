@@ -3,6 +3,8 @@
 #### Get Started
 
 ``` bash
+npm install -g vue-cli
+
 git clone https://github.com/miladbonakdar/Argon.vue.electron.git
 
 cd Argon.vue.electron
